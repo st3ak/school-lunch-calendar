@@ -1,0 +1,46 @@
+name: Update lunch menu feed
+
+on:
+  schedule:
+    - cron: "0 9 * * *" # 09:00 UTC daily
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-menu
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate ICS
+        run: >-
+          python mealviewer_to_ics.py
+          --school WolfLakeElementary
+          --weeks 6
+          --meals Lunch
+          --line "Wolf Lake"
+          --max-entrees 2
+
+      - name: Commit if changed
+        run: |
+          if [[ -n "$(git status --porcelain docs/lunch.ics)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add docs/lunch.ics
+            git commit -m "chore: refresh lunch menu feed"
+            git push
+          else
+            echo "No menu changes."
+          fi
