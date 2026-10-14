@@ -8,19 +8,20 @@ X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:20261013-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261013T164916Z
+DTSTAMP:20261014T142538Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Lunch: Herb Roasted Chicken Thigh\, Yogurt & Cheese Cool Pack
 DESCRIPTION:Entrees\n  - Herb Roasted Chicken Thigh\n  - Yogurt & Cheese Co
  ol Pack\n\nBreads/Grains\n  - Sweet Brazilian Bun\n\nVegetables\n  - Sweet
   Plantain Slices\n  - Golden Sun Splash Vegetable Juice\n\nFruits\n  - App
- lesauce\, Birthday Cake 4.5 oz\n\nMilk\n  - Assorted Milk
+ lesauce\, Birthday Cake 4.5 oz\n  - Applesauce\, Strawberry 4.5 oz\n\nMilk
+ \n  - Assorted Milk
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261014-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261013T164916Z
+DTSTAMP:20261014T142538Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Lunch: Hamburger\, 2.0 oz\, Cheeseburger
@@ -31,7 +32,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261015-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261013T164916Z
+DTSTAMP:20261014T142538Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Lunch: Tangerine Chicken\, Popcorn Chicken Salad
@@ -43,7 +44,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261016-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261013T164916Z
+DTSTAMP:20261014T142538Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Lunch: PizzaBoli\, Turkey & American on Bun
@@ -54,7 +55,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261019-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261013T164916Z
+DTSTAMP:20261014T142538Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Lunch: Empanada\, Chicken Enchilada\, Yogurt\, Cheese\, w/ Banana B
@@ -67,7 +68,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261020-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261013T164916Z
+DTSTAMP:20261014T142538Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Lunch: Cuban Style Mojo Pork\, PBJ\, 2.6 oz & Cheese
@@ -79,7 +80,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261021-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261013T164916Z
+DTSTAMP:20261014T142538Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Lunch: Scrambled Eggs with Cheese & French Toast Platter\, Egg\, Mu
@@ -92,7 +93,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261022-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261013T164916Z
+DTSTAMP:20261014T142538Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Lunch: Breaded Chicken Nuggets\, Chef Salad w/Turkey\, Egg & WG Cra
@@ -104,7 +105,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261023-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261013T164916Z
+DTSTAMP:20261014T142538Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Lunch: Four Cheese Pizza Slice\, Turkey & American Croissant
@@ -115,47 +116,41 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261026-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261013T164916Z
+DTSTAMP:20261014T142538Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
-SUMMARY:Lunch: Meatball Pizza Sub\, Crispy Chorizo Quesadilla
-DESCRIPTION:Entrees\n  - Meatball Pizza Sub\n  - Crispy Chorizo Quesadilla\
- n  - PBJ Sandwich Box\n\nVegetables\n  - Emoji Fries\n  - Marinara Dipping
-  Sauce Cup\n  - Salsa Dipping Cup\n\nFruits\n  - Strawberry Kiwi Juice\n  
- - Fruit Juice Blend\n  - Apple Juice\n  - Orange Juice\n\nMilk\n  - Assort
- ed Milk
+SUMMARY:Lunch: Crispy Chorizo Quesadilla\, PBJ Sandwich Box
+DESCRIPTION:Entrees\n  - Crispy Chorizo Quesadilla\n  - PBJ Sandwich Box\n\
+ nVegetables\n  - Emoji Fries\n  - Salsa Dipping Cup\n\nFruits\n  - Strawbe
+ rry Kiwi Juice\n\nMilk\n  - Assorted Milk
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261027-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261013T164916Z
+DTSTAMP:20261014T142538Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-SUMMARY:Lunch: Tangerine Chicken\, Seasoned Chicken Fajita
-DESCRIPTION:Entrees\n  - Tangerine Chicken\n  - Seasoned Chicken Fajita\n  
- - Hummus Cup Platter\n  - Chicken Egg Roll\n\nBreads/Grains\n  - Brown Ric
- e\n  - Warm 6" Tortilla\n\nVegetables\n  - Mandarin Carrot Slaw\n  - Salsa
-  Dipping Cup\n  - Mango Splash Vegetable Juice\n\nFruits\n  - Strawberry C
- up\n  - Peach Cup\n  - Mixed Berry Fruit Cup\n\nMilk\n  - Assorted Milk
+SUMMARY:Lunch: Seasoned Chicken Fajita\, Hummus Cup Platter
+DESCRIPTION:Entrees\n  - Seasoned Chicken Fajita\n  - Hummus Cup Platter\n\
+ nBreads/Grains\n  - Brown Rice\n\nVegetables\n  - Salsa Dipping Cup\n  - M
+ ango Splash Vegetable Juice\n\nFruits\n  - Strawberry Cup\n\nMilk\n  - Ass
+ orted Milk
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261028-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261013T164916Z
+DTSTAMP:20261014T142538Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:Lunch: 6" Personal Cheese Pizza\, Garlic French Bread Cheese Pizza
-DESCRIPTION:Entrees\n  - 6" Personal Cheese Pizza\n  - Garlic French Bread 
- Cheese Pizza\n  - Turkey & American Sub\n\nVegetables\n  - Marinara Dippin
- g Sauce Cup\n  - Fresh Steamed Broccoli\n  - Fresh Broccoli Dippers with R
- anch Dressing\n\nFruits\n  - Fresh Apple Slices\n  - Pineapple\, Wedges Fr
- ozen\n  - Orange Wedges\n  - Applesauce\, Strawberry 4.5 oz\n\nMilk\n  - A
- ssorted Milk
+SUMMARY:Lunch: 6" Personal Cheese Pizza\, Turkey & American Sub
+DESCRIPTION:Entrees\n  - 6" Personal Cheese Pizza\n  - Turkey & American Su
+ b\n\nVegetables\n  - Marinara Dipping Sauce Cup\n  - Fresh Steamed Broccol
+ i\n\nFruits\n  - Fresh Apple Slices\n\nMilk\n  - Assorted Milk
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261029-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261013T164916Z
+DTSTAMP:20261014T142538Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:Lunch: Chicken Corn Dog\, Butterball Turkey Hot Dog on WG Bun
@@ -169,7 +164,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261030-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261013T164916Z
+DTSTAMP:20261014T142538Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Lunch: Seasonal Shaped Nuggets\, Egg\, Cheese & Flatbread Box
@@ -182,7 +177,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261102-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261013T164916Z
+DTSTAMP:20261014T142538Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Lunch: Popcorn Chicken\, Breaded Chicken Nuggets
@@ -194,7 +189,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261103-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261013T164916Z
+DTSTAMP:20261014T142538Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Lunch: Turkey Barbacoa Birria Soft Tacos w/shredded chees\, Turkey 
@@ -208,7 +203,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261104-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261013T164916Z
+DTSTAMP:20261014T142538Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Lunch: Grilled Cheese Sandwich\, Buttermilk Pancakes w/ Turkey Saus
@@ -221,7 +216,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261105-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261013T164916Z
+DTSTAMP:20261014T142538Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Lunch: Mac and Cheese\, Spaghetti w/ Meatballs
@@ -233,7 +228,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261106-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261013T164916Z
+DTSTAMP:20261014T142538Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Lunch: Four Cheese Pizza Slice\, Breaded Mozzarella Sticks
@@ -247,7 +242,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261109-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261013T164916Z
+DTSTAMP:20261014T142538Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Lunch: Butterball Turkey Hot Dog on WG Bun\, Eisenberg Beef Hot Dog
@@ -261,7 +256,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261110-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261013T164916Z
+DTSTAMP:20261014T142538Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Lunch: Sofrito Roasted Drumstick\, Jerk Seasoned Drumstick
@@ -275,7 +270,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261111-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261013T164916Z
+DTSTAMP:20261014T142538Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Lunch: Hamburger\, 2.0 oz\, Cheeseburger
@@ -287,7 +282,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261112-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261013T164916Z
+DTSTAMP:20261014T142538Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Lunch: Asian Teriyaki Chicken\, Tangerine Chicken
@@ -298,6 +293,20 @@ DESCRIPTION:Entrees\n  - Asian Teriyaki Chicken\n  - Tangerine Chicken\n  -
   Dressing\n  - Cucumber Salad\n\nFruits\n  - Strawberry Kiwi Juice\n  - Fr
  uit Juice Blend\n  - Apple Juice\n  - Orange Juice\n  - Red Delicious Appl
  e\n\nMilk\n  - Assorted Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261113-lunch-WolfLakeElementary@mealviewer
+DTSTAMP:20261014T142538Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Lunch: PizzaBoli\, Stuffed Cheesy Breadstick
+DESCRIPTION:Entrees\n  - PizzaBoli\n  - Stuffed Cheesy Breadstick\n  - Turk
+ ey & American on Bun\n  - Butterball Turkey Hot Dog on WG Bun\n  - Eisenbe
+ rg Beef Hot Dog on WG Bun\n\nVegetables\n  - Marinara Dipping Sauce Cup\n 
+  - Garden Side Salad\n\nFruits\n  - Fresh Tangerine\n  - Fresh Apple Slice
+ s\n  - Applesauce 4.5 oz\n  - Applesauce\, Birthday Cake 4.5 oz\n  - Red D
+ elicious Apple\n\nMilk\n  - Assorted Milk
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
