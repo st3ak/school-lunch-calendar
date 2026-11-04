@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:20261102-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261103T165434Z
+DTSTAMP:20261104T165752Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Lunch: Popcorn Chicken\, PBJ\, 2.6 oz & Cheese
@@ -19,20 +19,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261103-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261103T165434Z
+DTSTAMP:20261104T165752Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Lunch: Yogurt\, Cheese\, w/ Banana Bread Plate\, Turkey Barbacoa Bi
  rria Soft Tacos w/shredded chees
 DESCRIPTION:Entrees\n  - Yogurt\, Cheese\, w/ Banana Bread Plate\n  - Turke
- y Barbacoa Birria Soft Tacos w/shredded chees\n\nVegetables\n  - Pinto Bea
- ns\, 1/2 cup\n  - Salsa Dipping Cup\n\nFruits\n  - Strawberry Cup\n\nMilk\
- n  - Assorted Milk
+ y Barbacoa Birria Soft Tacos w/shredded chees\n  - Two Soft Turkey Tacos w
+ / Cheese\n\nVegetables\n  - Pinto Beans\, 1/2 cup\n  - Salsa Dipping Cup\n
+ \nFruits\n  - Banana\, fresh\n\nMilk\n  - Assorted Milk
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261104-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261103T165434Z
+DTSTAMP:20261104T165752Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Lunch: Grilled Cheese Sandwich\, Egg\, Muffin\, Cheese\, & Apples B
@@ -44,7 +44,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261105-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261103T165434Z
+DTSTAMP:20261104T165752Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Lunch: Mac and Cheese\, Grilled Chicken Breast Salad
@@ -55,20 +55,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261106-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261103T165434Z
+DTSTAMP:20261104T165752Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Lunch: Four Cheese Pizza Slice\, Bento Box w/Pepperoni\, Cheese\, M
  arinara\, Flatbread
 DESCRIPTION:Entrees\n  - Four Cheese Pizza Slice\n  - Bento Box w/Pepperoni
  \, Cheese\, Marinara\, Flatbread\n\nVegetables\n  - Marinara Dipping Sauce
-  Cup\n  - Harvest  Treats Veg Juice\n\nFruits\n  - Fresh Apple Slices\n\nM
- ilk\n  - Assorted Milk
+  Cup\n  - Harvest  Treats Veg Juice\n  - Steamed Carrots\, 1/2 cup\n\nFrui
+ ts\n  - Fresh Apple Slices\n\nMilk\n  - Assorted Milk
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261109-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261103T165434Z
+DTSTAMP:20261104T165752Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Lunch: Hummus Cup with Cheese & Corn Tortilla Chips
@@ -78,7 +78,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261110-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261103T165434Z
+DTSTAMP:20261104T165752Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Lunch: Sofrito Roasted Drumstick\, Yogurt & Cheese Cool Pack
@@ -88,7 +88,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261111-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261103T165434Z
+DTSTAMP:20261104T165752Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Lunch: Hamburger\, 2.0 oz\, Cheeseburger
@@ -98,7 +98,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261112-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261103T165434Z
+DTSTAMP:20261104T165752Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Lunch: Tangerine Chicken\, Popcorn Chicken Salad
@@ -107,7 +107,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261113-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261103T165434Z
+DTSTAMP:20261104T165752Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Lunch: PizzaBoli\, Turkey & American on Bun
@@ -116,75 +116,57 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261116-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261103T165434Z
+DTSTAMP:20261104T165752Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
-SUMMARY:Lunch: Empanada\, Chicken Enchilada\, Calzone\, Cheeseburger
-DESCRIPTION:Entrees\n  - Empanada\, Chicken Enchilada\n  - Calzone\, Cheese
- burger\n  - Yogurt\, Cheese\, w/ Banana Bread Plate\n\nVegetables\n  - Sal
- sa Dipping Cup\n  - Carrot Dippers with Ranch Dressing\n\nFruits\n  - Stra
- wberry Kiwi Juice\n  - Fruit Juice Blend\n  - Apple Juice\n  - Orange Juic
- e\n\nMilk\n  - Assorted Milk
+SUMMARY:Lunch: Empanada\, Chicken Enchilada\, Yogurt\, Cheese\, w/ Banana B
+ read Plate
+DESCRIPTION:Entrees\n  - Empanada\, Chicken Enchilada\n  - Yogurt\, Cheese\
+ , w/ Banana Bread Plate
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261117-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261103T165434Z
+DTSTAMP:20261104T165752Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Lunch: Cuban Style Mojo Pork\, PBJ\, 2.6 oz & Cheese
-DESCRIPTION:Entrees\n  - Cuban Style Mojo Pork\n  - PBJ\, 2.6 oz & Cheese\n
- \nBreads/Grains\n  - Seasoned Brown Rice\, 1/2 cup\n  - Mini Loaf  Banana\
- n  - Mini Loaf- Blueberry\, WG\n\nVegetables\n  - Pinto Beans\, 1/2 cup\n 
-  - Corn on the Cob\n  - Shredded Lettuce Cup\n  - Pinto Beans\n\nFruits\n 
-  - Applesauce 4.5 oz\n  - Applesauce\, Strawberry 4.5 oz\n  - Diced Pear C
- up\n  - Mix Fruit Cup\n\nMilk\n  - Assorted Milk
+DESCRIPTION:Entrees\n  - Cuban Style Mojo Pork\n  - PBJ\, 2.6 oz & Cheese
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261118-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261103T165434Z
+DTSTAMP:20261104T165752Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-SUMMARY:Lunch: Turkey Sausage Patty\, Scrambled Eggs and Croissant\, Scramb
- led Eggs with Cheese & French Toast Platter
-DESCRIPTION:Entrees\n  - Turkey Sausage Patty\, Scrambled Eggs and Croissan
- t\n  - Scrambled Eggs with Cheese & French Toast Platter\n  - Egg\, Muffin
- \, Cheese\, & Apples Box\n\nVegetables\n  - Garlic Spinach\n  - Harvest  T
- reats Veg Juice\n\nFruits\n  - Fresh Tangerine\n  - Orange Wedges\n  - Pin
- eapple\, Wedges Frozen\n  - Fresh Apple Slices\n\nMilk\n  - Assorted Milk
+SUMMARY:Lunch: Scrambled Eggs with Cheese & French Toast Platter\, Egg\, Mu
+ ffin\, Cheese\, & Apples Box
+DESCRIPTION:Entrees\n  - Scrambled Eggs with Cheese & French Toast Platter\
+ n  - Egg\, Muffin\, Cheese\, & Apples Box
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261119-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261103T165434Z
+DTSTAMP:20261104T165752Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Lunch: Holiday Turkey Slices\, PBJ\, 2.6 oz & Cheese
-DESCRIPTION:Entrees\n  - Holiday Turkey Slices\n  - PBJ\, 2.6 oz & Cheese\n
- \nBreads/Grains\n  - Mini Loaf- Blueberry\, WG\n  - Mini Loaf  Banana\n  -
-  Sugar Cookie 1.2oz\n  - Cookie 1.85 oz\n\nVegetables\n  - Potatoes\, Mash
- ed\n  - Green Beans& Corn fresh 1/2c\n\nFruits\n  - Strawberry Kiwi Juice\
- n  - Fruit Juice Blend\n  - Apple Juice\n  - Orange Juice\n\nMilk\n  - Ass
- orted Milk
+DESCRIPTION:Entrees\n  - Holiday Turkey Slices\n  - PBJ\, 2.6 oz & Cheese
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261120-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261103T165434Z
+DTSTAMP:20261104T165752Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:Lunch: Four Cheese Pizza Slice\, Four Cheese Pepperoni Slice
-DESCRIPTION:Entrees\n  - Four Cheese Pizza Slice\n  - Four Cheese Pepperoni
-  Slice\n  - Turkey & American Croissant\n  - 6" Personal Cheese Pizza\n\nV
- egetables\n  - Marinara Dipping Sauce Cup\n  - Italian Blend Vegetables\n\
- nFruits\n  - Strawberry Cup\n  - Peach Cup\n  - Mixed Berry Fruit Cup\n\nM
- ilk\n  - Assorted Milk
+SUMMARY:Lunch: Four Cheese Pizza Slice\, Turkey & American Croissant
+DESCRIPTION:Entrees\n  - Four Cheese Pizza Slice\n  - Turkey & American Cro
+ issant
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261130-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261103T165434Z
+DTSTAMP:20261104T165752Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Lunch: Popcorn Chicken\, Breaded Chicken Nuggets
@@ -196,7 +178,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261201-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261103T165434Z
+DTSTAMP:20261104T165752Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Lunch: Turkey Barbacoa Birria Soft Tacos w/shredded chees\, Turkey 
@@ -210,7 +192,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261202-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261103T165434Z
+DTSTAMP:20261104T165752Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Lunch: Grilled Cheese Sandwich\, Buttermilk Pancakes w/ Turkey Saus
@@ -223,7 +205,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261203-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261103T165434Z
+DTSTAMP:20261104T165752Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Lunch: Mac and Cheese\, Spaghetti w/ Meatballs
@@ -231,6 +213,19 @@ DESCRIPTION:Entrees\n  - Mac and Cheese\n  - Spaghetti w/ Meatballs\n  - Gr
  illed Chicken Breast Salad\n\nVegetables\n  - Garlic Spinach\n  - Garden S
  ide Salad\n\nFruits\n  - Strawberry Kiwi Juice\n  - Fruit Juice Blend\n  -
   Apple Juice\n  - Orange Juice\n\nMilk\n  - Assorted Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261204-lunch-WolfLakeElementary@mealviewer
+DTSTAMP:20261104T165752Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Lunch: Four Cheese Pizza Slice\, Breaded Mozzarella Sticks
+DESCRIPTION:Entrees\n  - Four Cheese Pizza Slice\n  - Breaded Mozzarella St
+ icks\n  - Bento Box w/Pepperoni\, Cheese\, Marinara\, Flatbread\n\nVegetab
+ les\n  - Marinara Dipping Sauce Cup\n  - Harvest  Treats Veg Juice\n\nFrui
+ ts\n  - Fresh Tangerine\n  - Fresh Apple Slices\n  - Red Delicious Apple\n
+   - Strawberry Cup\n  - Mixed Berry Fruit Cup\n\nMilk\n  - Assorted Milk
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
