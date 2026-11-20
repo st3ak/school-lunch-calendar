@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT12H
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:20261116-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261119T180536Z
+DTSTAMP:20261120T173938Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Lunch: Empanada\, Chicken Enchilada\, Yogurt\, Cheese\, w/ Banana B
@@ -21,7 +21,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261117-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261119T180536Z
+DTSTAMP:20261120T173938Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Lunch: Cuban Style Mojo Pork\, PBJ\, 2.6 oz & Cheese
@@ -34,7 +34,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261118-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261119T180536Z
+DTSTAMP:20261120T173938Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Lunch: Egg\, Muffin\, Cheese\, & Apples Box\, Scrambled Eggs with C
@@ -47,19 +47,19 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261119-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261119T180536Z
+DTSTAMP:20261120T173938Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Lunch: Holiday Turkey Slices\, PBJ\, 2.6 oz & Cheese
 DESCRIPTION:Entrees\n  - Holiday Turkey Slices\n  - PBJ\, 2.6 oz & Cheese\n
- \nBreads/Grains\n  - Mini Loaf  Banana\n\nVegetables\n  - Potatoes\, Mashe
- d\n  - Green Beans& Corn fresh 1/2c\n\nFruits\n  - Apple Juice\n\nMilk\n  
- - Assorted Milk
+ \nBreads/Grains\n  - Mini Loaf  Banana\n  - Cookie 1.85 oz\n\nVegetables\n
+   - Potatoes\, Mashed\n  - Green Beans& Corn fresh 1/2c\n  - Corn on the C
+ ob\n\nFruits\n  - Apple Juice\n\nMilk\n  - Assorted Milk
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261120-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261119T180536Z
+DTSTAMP:20261120T173938Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Lunch: Four Cheese Pizza Slice\, Turkey & American Croissant
@@ -70,7 +70,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261130-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261119T180536Z
+DTSTAMP:20261120T173938Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Lunch: Breaded Chicken Nuggets\, PBJ\, 2.6 oz & Cheese
@@ -81,7 +81,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261201-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261119T180536Z
+DTSTAMP:20261120T173938Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Lunch: Turkey Barbacoa Birria Nachos w/shredded cheese\, Yogurt\, C
@@ -94,7 +94,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261202-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261119T180536Z
+DTSTAMP:20261120T173938Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Lunch: Buttermilk Pancakes w/ Turkey Sausage\, Egg\, Muffin\, Chees
@@ -106,7 +106,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261203-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261119T180536Z
+DTSTAMP:20261120T173938Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Lunch: Spaghetti w/ Meatballs\, Grilled Chicken Breast Salad
@@ -117,7 +117,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261204-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261119T180536Z
+DTSTAMP:20261120T173938Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Lunch: Four Cheese Pizza Slice\, Bento Box w/Pepperoni\, Cheese\, M
@@ -130,7 +130,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261207-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261119T180536Z
+DTSTAMP:20261120T173938Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Lunch: Hummus Cup with Cheese & Corn Tortilla Chips
@@ -141,7 +141,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261208-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261119T180536Z
+DTSTAMP:20261120T173938Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:Lunch: Sofrito Roasted Drumstick\, Yogurt & Cheese Cool Pack
@@ -153,7 +153,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261209-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261119T180536Z
+DTSTAMP:20261120T173938Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Lunch: Seasonal Shaped Nuggets\, Popcorn Chicken Salad
@@ -164,7 +164,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261210-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261119T180536Z
+DTSTAMP:20261120T173938Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Lunch: Cheeseburger\, Hamburger\, 2.0 oz
@@ -175,7 +175,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261211-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261119T180536Z
+DTSTAMP:20261120T173938Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:Lunch: Stuffed Cheesy Breadstick\, Turkey & American on Bun
@@ -187,70 +187,102 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261214-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261119T180536Z
+DTSTAMP:20261120T173938Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
-SUMMARY:Lunch: Empanada\, Chicken Enchilada\, Calzone\, Cheeseburger
-DESCRIPTION:Entrees\n  - Empanada\, Chicken Enchilada\n  - Calzone\, Cheese
- burger\n  - Yogurt\, Cheese\, w/ Banana Bread Plate\n\nVegetables\n  - Sal
- sa Dipping Cup\n  - Carrot Dippers with Ranch Dressing\n\nFruits\n  - Stra
- wberry Kiwi Juice\n  - Fruit Juice Blend\n  - Apple Juice\n  - Orange Juic
- e\n\nMilk\n  - Assorted Milk
+SUMMARY:Lunch: Bacon & Eggs Platter\, Eggs\, Bacon & Toast Platter
+DESCRIPTION:Entrees\n  - Bacon & Eggs Platter\n  - Eggs\, Bacon & Toast Pla
+ tter\n  - Mozzarella Cheese Stick\n  - Empanada\, Chicken Enchilada\n  - C
+ alzone\, Cheeseburger\n  - Yogurt\, Cheese\, w/ Banana Bread Plate\n  - Sc
+ ramble Eggs and Toast\n\nBreads/Grains\n  - Banana Sliced Bread\n  - Cerea
+ l Blueberry Chex Bowl 1 oz\n  - Frosted Corn Flakes Bowl 1 oz\n  - Cheerio
+ s Gluten Free Bowl 1 oz\n  - Cinnamon Toast Crunch R/S Bowl 1 oz\n  - Coco
+ a Puffs Bowl 1 oz\n  - Rice Chex Gluten Free Bowl 1 oz\n  - Trix Cereal Bo
+ wl 1 oz\n  - Nutrigrain Bar\, Strawberry\n  - Trix Cereal Bar 1.42 oz\n  -
+  WG Toast\n\nVegetables\n  - Salsa Dipping Cup\n  - Carrot Dippers with Ra
+ nch Dressing\n\nFruits\n  - Peach Cup\n  - Strawberry Cup\n  - Mixed Berry
+  Fruit Cup\n  - Strawberry Kiwi Juice\n  - Fruit Juice Blend\n  - Apple Ju
+ ice\n  - Orange Juice\n\nMilk\n  - Assorted Milk
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261215-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261119T180536Z
+DTSTAMP:20261120T173938Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:Lunch: Cuban Style Mojo Pork\, PBJ\, 2.6 oz & Cheese
-DESCRIPTION:Entrees\n  - Cuban Style Mojo Pork\n  - PBJ\, 2.6 oz & Cheese\n
- \nBreads/Grains\n  - Seasoned Brown Rice\, 1/2 cup\n  - Mini Loaf  Banana\
- n  - Mini Loaf- Blueberry\, WG\n\nVegetables\n  - Pinto Beans\, 1/2 cup\n 
-  - Corn on the Cob\n  - Shredded Lettuce Cup\n  - Pinto Beans\n\nFruits\n 
-  - Applesauce 4.5 oz\n  - Applesauce\, Strawberry 4.5 oz\n  - Diced Pear C
- up\n  - Mix Fruit Cup\n\nMilk\n  - Assorted Milk
+SUMMARY:Lunch: Mozzarella Cheese Bites\, 3 each\, Mozzarella Cheese Stick
+DESCRIPTION:Entrees\n  - Mozzarella Cheese Bites\, 3 each\n  - Mozzarella C
+ heese Stick\n  - Cuban Style Mojo Pork\n  - PBJ\, 2.6 oz & Cheese\n\nBread
+ s/Grains\n  - WG Double Chocolate Muffin\n  - Cereal Blueberry Chex Bowl 1
+  oz\n  - Frosted Corn Flakes Bowl 1 oz\n  - Cheerios Gluten Free Bowl 1 oz
+ \n  - Cocoa Puffs Bowl 1 oz\n  - Trix Cereal Bowl 1 oz\n  - Cinnamon Toast
+  Crunch R/S Bowl 1 oz\n  - Rice Chex Gluten Free Bowl 1 oz\n  - Nutrigrain
+  Bar\, Strawberry\n  - Trix Cereal Bar 1.42 oz\n  - WG Toast\n  - Seasoned
+  Brown Rice\, 1/2 cup\n  - Mini Loaf  Banana\n  - Mini Loaf- Blueberry\, W
+ G\n\nVegetables\n  - Marinara Dipping Sauce Cup\n  - Pinto Beans\, 1/2 cup
+ \n  - Corn on the Cob\n  - Shredded Lettuce Cup\n  - Pinto Beans\n\nFruits
+ \n  - Peach Cup\n  - Strawberry Cup\n  - Mixed Berry Fruit Cup\n  - Apples
+ auce 4.5 oz\n  - Applesauce\, Strawberry 4.5 oz\n  - Diced Pear Cup\n  - M
+ ix Fruit Cup\n\nMilk\n  - Assorted Milk
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261216-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261119T180536Z
+DTSTAMP:20261120T173938Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-SUMMARY:Lunch: Turkey Sausage Patty\, Scrambled Eggs and Croissant\, Scramb
- led Eggs with Cheese & French Toast Platter
-DESCRIPTION:Entrees\n  - Turkey Sausage Patty\, Scrambled Eggs and Croissan
- t\n  - Scrambled Eggs with Cheese & French Toast Platter\n  - Egg\, Muffin
- \, Cheese\, & Apples Box\n\nVegetables\n  - Garlic Spinach\n  - Harvest  T
- reats Veg Juice\n\nFruits\n  - Fresh Tangerine\n  - Orange Wedges\n  - Pin
- eapple\, Wedges Frozen\n  - Fresh Apple Slices\n\nMilk\n  - Assorted Milk
+SUMMARY:Lunch: Pancake Bites\, Mozzarella Cheese Stick
+DESCRIPTION:Entrees\n  - Pancake Bites\n  - Mozzarella Cheese Stick\n  - Tu
+ rkey Sausage Patty\, Scrambled Eggs and Croissant\n  - Scrambled Eggs with
+  Cheese & French Toast Platter\n  - Egg\, Muffin\, Cheese\, & Apples Box\n
+ \nBreads/Grains\n  - Cereal Blueberry Chex Bowl 1 oz\n  - Cheerios Gluten 
+ Free Bowl 1 oz\n  - Frosted Corn Flakes Bowl 1 oz\n  - Rice Chex Gluten Fr
+ ee Bowl 1 oz\n  - Cocoa Puffs Bowl 1 oz\n  - Cinnamon Toast Crunch R/S Bow
+ l 1 oz\n  - Trix Cereal Bowl 1 oz\n  - Nutrigrain Bar\, Strawberry\n  - Tr
+ ix Cereal Bar 1.42 oz\n  - WG Toast\n\nVegetables\n  - Garlic Spinach\n  -
+  Harvest  Treats Veg Juice\n\nFruits\n  - Banana\, fresh\n  - Pineapple\, 
+ Wedges Frozen\n  - Orange Wedges\n  - Fresh Tangerine\n  - Fresh Apple Sli
+ ces\n\nMilk\n  - Assorted Milk
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261217-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261119T180536Z
+DTSTAMP:20261120T173938Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-SUMMARY:Lunch: Holiday Turkey Slices\, PBJ\, 2.6 oz & Cheese
-DESCRIPTION:Entrees\n  - Holiday Turkey Slices\n  - PBJ\, 2.6 oz & Cheese\n
- \nBreads/Grains\n  - Mini Loaf- Blueberry\, WG\n  - Mini Loaf  Banana\n  -
-  Sugar Cookie 1.2oz\n  - Cookie 1.85 oz\n\nVegetables\n  - Potatoes\, Mash
- ed\n  - Green Beans& Corn fresh 1/2c\n\nFruits\n  - Strawberry Kiwi Juice\
- n  - Fruit Juice Blend\n  - Apple Juice\n  - Orange Juice\n\nMilk\n  - Ass
- orted Milk
+SUMMARY:Lunch: Power Box with Crackers (no yogurt)\, Mozzarella Cheese Stic
+ k
+DESCRIPTION:Entrees\n  - Power Box with Crackers (no yogurt)\n  - Mozzarell
+ a Cheese Stick\n  - Holiday Turkey Slices\n  - PBJ\, 2.6 oz & Cheese\n\nBr
+ eads/Grains\n  - Blueberry Muffin Top\n  - Cereal Blueberry Chex Bowl 1 oz
+ \n  - Frosted Corn Flakes Bowl 1 oz\n  - Trix Cereal Bowl 1 oz\n  - Rice C
+ hex Gluten Free Bowl 1 oz\n  - Cocoa Puffs Bowl 1 oz\n  - Cheerios Gluten 
+ Free Bowl 1 oz\n  - Cinnamon Toast Crunch R/S Bowl 1 oz\n  - Nutrigrain Ba
+ r\, Strawberry\n  - Trix Cereal Bar 1.42 oz\n  - WG Toast\n  - Mini Loaf- 
+ Blueberry\, WG\n  - Mini Loaf  Banana\n  - Sugar Cookie 1.2oz\n  - Cookie 
+ 1.85 oz\n\nVegetables\n  - Potatoes\, Mashed\n  - Green Beans& Corn fresh 
+ 1/2c\n\nFruits\n  - Apple Juice\n  - Fruit Juice Blend\n  - Peach Cup\n  -
+  Strawberry Cup\n  - Mixed Berry Fruit Cup\n  - Strawberry Kiwi Juice\n  -
+  Orange Juice\n\nMilk\n  - Assorted Milk
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261218-lunch-WolfLakeElementary@mealviewer
-DTSTAMP:20261119T180536Z
+DTSTAMP:20261120T173938Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-SUMMARY:Lunch: Four Cheese Pizza Slice\, Four Cheese Pepperoni Slice
-DESCRIPTION:Entrees\n  - Four Cheese Pizza Slice\n  - Four Cheese Pepperoni
-  Slice\n  - Turkey & American Croissant\n  - 6" Personal Cheese Pizza\n\nV
- egetables\n  - Marinara Dipping Sauce Cup\n  - Italian Blend Vegetables\n\
- nFruits\n  - Strawberry Cup\n  - Peach Cup\n  - Mixed Berry Fruit Cup\n\nM
- ilk\n  - Assorted Milk
+SUMMARY:Lunch: Mozzarella Cheese Stick\, Four Cheese Pizza Slice
+DESCRIPTION:Entrees\n  - Mozzarella Cheese Stick\n  - Four Cheese Pizza Sli
+ ce\n  - Four Cheese Pepperoni Slice\n  - Turkey & American Croissant\n  - 
+ 6" Personal Cheese Pizza\n\nBreads/Grains\n  - Swirl Raspberry\n  - Sweet 
+ Potato Swirl\n  - Cereal Blueberry Chex Bowl 1 oz\n  - Frosted Corn Flakes
+  Bowl 1 oz\n  - Trix Cereal Bowl 1 oz\n  - Cinnamon Toast Crunch R/S Bowl 
+ 1 oz\n  - Cheerios Gluten Free Bowl 1 oz\n  - Cocoa Puffs Bowl 1 oz\n  - R
+ ice Chex Gluten Free Bowl 1 oz\n  - Nutrigrain Bar\, Strawberry\n  - Trix 
+ Cereal Bar 1.42 oz\n  - WG Toast\n\nVegetables\n  - Marinara Dipping Sauce
+  Cup\n  - Italian Blend Vegetables\n\nFruits\n  - Orange Wedges\n  - Golde
+ n Delicious Apple\n  - Mixed Berry Fruit Cup\n  - Strawberry Cup\n  - Peac
+ h Cup\n\nMilk\n  - Assorted Milk
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
